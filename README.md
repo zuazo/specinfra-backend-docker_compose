@@ -107,7 +107,7 @@ set :sudo_password, '0deH3R7RbHoEwzIqQGCD'
 
 ## Important Warning
 
-This code uses the [`docker-compose-api`](https://rubygems.org/gems/docker-compose-api) Ruby gem to emulate Docker Compose. So, some *docker-compose.yml* configuration options may not be supported yet or may not work exactly the same. Let us know if you find any bug or you need a missing feature.
+This backend uses the [`docker-compose-api`](https://rubygems.org/gems/docker-compose-api) Ruby gem to emulate Docker Compose. So, some *docker-compose.yml* configuration options may not be supported yet or may not work exactly the same. Let us know if you find any bug or you need a missing feature.
 
 Thanks to [Mauricio Klein](https://github.com/mauricioklein) for all his work by the way!
 
