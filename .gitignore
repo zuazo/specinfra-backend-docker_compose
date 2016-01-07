@@ -1,0 +1,12 @@
+*~
+.bundle
+.cache
+coverage
+doc
+*.gem
+Gemfile.lock
+.inch
+*.swo
+*.swp
+vendor
+.yardoc
