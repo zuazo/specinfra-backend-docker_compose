@@ -1,6 +1,6 @@
 # Specinfra Docker Compose Backend
 [![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg?style=flat)](http://www.rubydoc.info/gems/specinfra-backend-docker_compose)
-[![GitHub](http://img.shields.io/badge/github-zuazo/specinfra-backend-docker_compose-blue.svg?style=flat)](https://github.com/zuazo/specinfra-backend-docker_compose)
+[![GitHub](http://img.shields.io/badge/github-zuazo/specinfra--backend--docker_compose-blue.svg?style=flat)](https://github.com/zuazo/specinfra-backend-docker_compose)
 [![License](https://img.shields.io/github/license/zuazo/specinfra-backend-docker_compose.svg?style=flat)](#license-and-author)
 
 [![Gem Version](https://badge.fury.io/rb/specinfra-backend-docker_compose.svg)](https://rubygems.org/gems/specinfra-backend-docker_compose)
