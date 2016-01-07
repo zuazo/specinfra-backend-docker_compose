@@ -25,7 +25,7 @@ describe Specinfra::Backend::DockerCompose do
     path = File.join(File.dirname(__FILE__), '..', 'data')
     set :docker_compose_file, "#{path}/docker-compose.yml"
     set :docker_compose_container, :wordpress
-    set :docker_wait, 15
+    set :docker_wait, ENV['CI'] ? 30 : 15
     if lxc_execution_driver?
       set :backend, :docker_compose_lxc
     else
