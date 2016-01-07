@@ -90,6 +90,8 @@ Uses the following `Specinfra` configuration options:
 - `:docker_wait`: Seconds to wait for containers to start (i.e., time to sleep before running the tests) (**recommended**).
 - `:backend`: `:docker_compose` or `:docker_compose_lxc` (for LXC execution driver). Always set it after all other options.
 
+Keep in mind that some CI environments may be somewhat slower than usual. So maybe you will need to increase the `:docker_wait` value to one or two minutes to allow more time for services to start.
+
 Some options used only by the `:docker_compose_lxc` backend:
 
 - `:sudo_options`: Sudo command argument list as string or as array.
