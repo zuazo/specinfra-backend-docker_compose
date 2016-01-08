@@ -6,9 +6,9 @@
 [![Gem Version](https://badge.fury.io/rb/specinfra-backend-docker_compose.svg)](https://rubygems.org/gems/specinfra-backend-docker_compose)
 [![Dependency Status](http://img.shields.io/gemnasium/zuazo/specinfra-backend-docker_compose.svg?style=flat)](https://gemnasium.com/zuazo/specinfra-backend-docker_compose)
 [![Code Climate](http://img.shields.io/codeclimate/github/zuazo/specinfra-backend-docker_compose.svg?style=flat)](https://codeclimate.com/github/zuazo/specinfra-backend-docker_compose)
-[![Travis CI Build Status](http://img.shields.io/travis/zuazo/specinfra-backend-docker_compose/0.1.0.svg?style=flat)](https://travis-ci.org/zuazo/specinfra-backend-docker_compose)
+[![Travis CI Build Status](http://img.shields.io/travis/zuazo/specinfra-backend-docker_compose.svg?style=flat)](https://travis-ci.org/zuazo/specinfra-backend-docker_compose)
 [![Circle CI Build Status](https://circleci.com/gh/zuazo/specinfra-backend-docker_compose/tree/master.svg?style=shield)](https://circleci.com/gh/zuazo/specinfra-backend-docker_compose/tree/master)
-[![Coverage Status](http://img.shields.io/coveralls/zuazo/specinfra-backend-docker_compose/0.1.0.svg?style=flat)](https://coveralls.io/r/zuazo/specinfra-backend-docker_compose?branch=0.1.0)
+[![Coverage Status](http://img.shields.io/coveralls/zuazo/specinfra-backend-docker_compose.svg?style=flat)](https://coveralls.io/r/zuazo/specinfra-backend-docker_compose?branch=master)
 [![Inline docs](http://inch-ci.org/github/zuazo/specinfra-backend-docker_compose.svg?branch=master&style=flat)](http://inch-ci.org/github/zuazo/specinfra-backend-docker_compose)
 
 [Serverspec](http://serverspec.org/) / [Specinfra](https://github.com/mizzy/specinfra) backend for [Docker Compose](https://docs.docker.com/compose/).
